@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Yerin's%20Github&fontSize=90&animation=blink&fontAlignY=35" />
 </p>
-### ⭐Tech Stack⭐
+
+
+## ⭐Tech Stack⭐
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
