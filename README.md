@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Yerin's%20Github&fontSize=90&animation=blink&fontAlignY=35" />
+</p>
 ### ⭐Tech Stack⭐
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -27,4 +28,5 @@
 <br>
 <br>
 
+![Yerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerin-04&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin-04)
