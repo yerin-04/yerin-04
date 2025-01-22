@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Yerin's%20Github&fontSize=90&animation=blink&fontAlignY=35" />
 </p>
 
+<h2 align="center">안녕하세요🤚🏻 유예린입니다</h2><br><br>
 
 <h2 align="center">⭐ Tech Stack ⭐</h2><br>
 <div align="center">
