@@ -2,11 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Yerin's%20Github&fontSize=90&animation=blink&fontAlignY=35" />
 </p>
 
-<h2 align="center">안녕하세요🤚🏻 유예린입니다</h2><br><br>
-<div align="left">
+<h2 align="center">안녕하세요🤚🏻 유예린입니다 </h2>
+<h4 align="center"> 수상내역 </h4>
+<div align="center">
   🏆 2024대학생 틱톡AR필터 메이커톤 2등 <br>
   🏆 2024캡스톤 및 AI해커톤 우수상 <br>
-  <br><br>
+<h4 align="center"> 자격증 </h4>
   🪪 컴활 2급
 </div>
 <br><br><br>
