@@ -10,7 +10,7 @@
 <h4 align="center"> 자격증 </h4>
   🪪 컴활 2급
 </div>
-<br><br><br>
+<br><br><br><br><br>
 
 <h2 align="center">⭐ Tech Stack ⭐</h2><br>
 <div align="center">
