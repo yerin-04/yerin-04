@@ -3,6 +3,13 @@
 </p>
 
 <h2 align="center">안녕하세요🤚🏻 유예린입니다</h2><br><br>
+<div align="left">
+  🏆 2024대학생 틱톡AR필터 메이커톤 2등 <br>
+  🏆 2024캡스톤 및 AI해커톤 우수상 <br>
+  <br><br>
+  🪪 컴활 2급
+</div>
+<br><br><br>
 
 <h2 align="center">⭐ Tech Stack ⭐</h2><br>
 <div align="center">
