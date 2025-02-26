@@ -7,6 +7,9 @@
 <div align="center">
   🏆 2024대학생 틱톡AR필터 메이커톤 2등 <br>
   🏆 2024캡스톤 및 AI해커톤 우수상 <br><br>
+
+https://www.oracle.com/kr/database/technologies/xe-downloads.html
+  https://www.oracle.com/kr/database/sqldeveloper/technologies/download/
 <h4 align="center"> 자격증 </h4>
   🪪 컴활 2급
 </div>
