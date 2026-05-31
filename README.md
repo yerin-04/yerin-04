@@ -13,7 +13,7 @@
   🏆 창업 아이디어 경진대회 기업상 <br>
   🏆 커리어 로드맵 경진대회 장려상 <br>
   🏆 해외 취창업 공모전 <br>
-  🏆 전공 탐색 공모전 대상 <br><br><br>
+  🏆 전공 탐색 공모전 대상 <br><br><br><br>
 
 <!--
 <h3 align="center"> 자격증 </h3>
@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>&nbsp
 </div>
 <br><br><br>
 
