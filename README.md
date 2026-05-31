@@ -20,6 +20,7 @@
 </div>
 <br><br><br><br><br>
 
+<!--
 <h2 align="center">⭐ Tech Stack ⭐</h2><br>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp
@@ -39,6 +40,7 @@
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>&nbsp
 </div>
+-->
 
 <br><br><br>
 
