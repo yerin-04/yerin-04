@@ -42,6 +42,16 @@
 
 <br><br><br>
 
+<h2 align="center">🏆 Featured Projects 🏆</h2>
+<div align="center">
+  <a href="https://github.com/yerin-04/FE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yerin-04&repo=FE&theme=radical" />
+  </a>
+  <a href="https://github.com/yerin-04/AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yerin-04&repo=AI&theme=radical" />
+  </a>
+</div>
+<br><br><br><br><br>
 
 <br><br><br><br><br>
 
