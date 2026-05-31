@@ -18,7 +18,7 @@
 <h3 align="center"> 자격증 </h3>
   🪪 컴활 2급
 </div>
-<br><br><br><br><br>
+<br><br><br>
 
 <!--
 <h2 align="center">⭐ Tech Stack ⭐</h2><br>
@@ -42,8 +42,6 @@
 </div>
 -->
 
-<br><br><br>
-
 <h2 align="center">🏆 Featured Projects 🏆</h2>
 <div align="center">
   <a href="https://github.com/yerin-04/FE">
@@ -53,9 +51,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yerin-04&repo=AI&theme=radical" />
   </a>
 </div>
-<br><br><br><br><br>
+<br><br><br>
 
-<br><br><br><br><br>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yerin04)](https://solved.ac/yerin04)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=yerin04&theme=warm)
