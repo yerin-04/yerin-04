@@ -45,10 +45,11 @@
 <h2 align="center">🏆 Featured Projects 🏆</h2>
 <div align="center">
   <a href="https://github.com/yerin-04/FE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yerin-04&repo=FE&theme=radical" />
+    <img src="https://img.shields.io/badge/2024 AI Hackathon-FE-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/yerin-04/AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yerin-04&repo=AI&theme=radical" />
+    <img src="https://img.shields.io/badge/2024 AI Hackathon-AI-14354C?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </div>
 <br><br><br>
