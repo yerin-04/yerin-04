@@ -42,14 +42,14 @@
 </div>
 -->
 
-<h2 align="center">🏆 Featured Projects 🏆</h2>
+<h3 align="center"> Projects </h3>
 <div align="center">
   <a href="https://github.com/yerin-04/FE">
-    <img src="https://img.shields.io/badge/2024 AI Hackathon-FE-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/2024 AI Hackathon-FE-98D8C8?style=for-the-badge&logo=javascript&logoColor=555555" />
   </a>
   &nbsp;
   <a href="https://github.com/yerin-04/AI">
-    <img src="https://img.shields.io/badge/2024 AI Hackathon-AI-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/2024 AI Hackathon-AI-C9B8E8?style=for-the-badge&logo=python&logoColor=555555" />
   </a>
 </div>
 <br><br><br>
