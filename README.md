@@ -42,6 +42,7 @@
 </div>
 -->
 
+<hr>
 <h3 align="center"> Projects </h3>
 <div align="center">
   <a href="https://github.com/yerin-04/FE">
