@@ -5,17 +5,16 @@
 <h2 align="center"> 안녕하세요 유예린입니다. </h2><br>
 <h3 align="center"> 수상내역(대외활동) </h3>
 <div align="center">
-  <h3 align="center"> 교외 </h3>
   🏆 2024대학생 틱톡AR필터 메이커톤 2등 <br>
   🏆 2024캡스톤 및 AI해커톤 우수상 <br>
 
+<!--
   <h3 align="center"> 교내 </h3>
   🏆 창업 아이디어 경진대회 기업상 <br>
   🏆 커리어 로드맵 경진대회 장려상 <br>
   🏆 해외 취창업 공모전 <br>
   🏆 전공 탐색 공모전 대상 <br><br><br><br><br>
-
-<!--
+  
 <h3 align="center"> 자격증 </h3>
   🪪 컴활 2급
 </div>
