@@ -6,7 +6,7 @@
 <h3 align="center"> 수상내역(대외활동) </h3>
 <div align="center">
   🏆 2024대학생 틱톡AR필터 메이커톤 2등 <br>
-  🏆 2024캡스톤 및 AI해커톤 우수상 <br>
+  🏆 2024캡스톤 및 AI해커톤 우수상 <br><br><br><br>
 
 <!--
   <h3 align="center"> 교내 </h3>
