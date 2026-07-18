@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Yerin's%20Github&fontSize=90&animation=blink&fontAlignY=35" />
 </p>
 
-<h2 align="center"> 안녕하세요 유예린입니다. </h2><br>
+<h2 align="center"> 안녕하세요 유예린입니다. </h2>
 <!--
 <h3 align="center"> 수상내역(대외활동) </h3>
 <div align="center">
