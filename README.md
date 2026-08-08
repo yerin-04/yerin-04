@@ -50,21 +50,34 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>&nbsp
 </div>
-<br><br><br><br>
+<br><br>
 
 <h3 align="center"> Projects </h3>
 <div align="center">
-  <a href="https://github.com/yerin-04/FE">
-    <img src="https://img.shields.io/badge/2024 AI Hackathon-FE-98D8C8?style=for-the-badge&logo=javascript&logoColor=555555" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/yerin-04/AI">
-    <img src="https://img.shields.io/badge/2024 AI Hackathon-AI-C9B8E8?style=for-the-badge&logo=python&logoColor=555555" />
-  </a>
+  
+  <span style="font-size: 28px;">**2024 AI 해커톤 및 캡스톤**</span><br>
+  실시간 TTS·STT 기반 소통 서비스
+  <p>
+    <a href="https://github.com/yerin-04/AI">
+      <img src="https://img.shields.io/badge/AI-C9B8E8?style=for-the-badge&logo=python&logoColor=555555" />
+    </a>
+    <a href="https://github.com/yerin-04/FE">
+      <img src="https://img.shields.io/badge/FE-98D8C8?style=for-the-badge&logo=javascript&logoColor=555555" />
+    </a>
+  </p><br>
+  
+  <span style="font-size: 28px;">**소방로**</span><br>
+  차량별 최적 경로를 추천해 화재 현장까지 가장 빠르게 안내하는 소방관 전용 내비게이션 <br>
+  <p>
+    <a href="https://github.com/yerin-04/FiretruckNav">
+      <img src="https://img.shields.io/badge/Frontend-FiretruckNav-blue?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/yerin-04/FiretruckNav_BE">
+      <img src="https://img.shields.io/badge/Backend-FiretruckNav__BE-2E8B57?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 </div>
 <br><br><br><br>
-
-
 
 <div align="center">
   <a href="https://solved.ac/yerin04">
