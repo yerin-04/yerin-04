@@ -52,7 +52,7 @@
 </div>
 <br><br>
 
-<h3 align="center"> Projects </h3>
+<h2 align="center"> Projects </h2>
 <div align="center">
   
   <span style="font-size: 28px;">**2024 AI 해커톤 및 캡스톤**</span><br>
