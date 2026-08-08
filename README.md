@@ -55,7 +55,7 @@
 <h2 align="center"> Projects </h2>
 <div align="center">
   
-  <span style="font-size: 28px;">**2024 AI 해커톤 및 캡스톤**</span><br>
+  <span style="font-size: 32px;">**2024 AI 해커톤 및 캡스톤**</span><br>
   실시간 TTS·STT 기반 소통 서비스
   <p>
     <a href="https://github.com/yerin-04/AI">
@@ -66,7 +66,7 @@
     </a>
   </p><br>
   
-  <span style="font-size: 28px;">**소방로**</span><br>
+  <span style="font-size: 32px;">**소방로**</span><br>
   차량별 최적 경로를 추천해 화재 현장까지 가장 빠르게 안내하는 소방관 전용 내비게이션 <br>
   <p>
     <a href="https://github.com/yerin-04/FiretruckNav">
