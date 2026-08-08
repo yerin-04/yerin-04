@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Yerin's%20Github&fontSize=90&animation=blink&fontAlignY=35" />
 </p>
 
-<h2 align="center"> 안녕하세요 유예린입니다. </h2><br><br>
+<h3 align="center" style="font-size: 28px;"> 안녕하세요 유예린입니다. </h3><br><br>
 
 <!--
 <h3 align="center"> 수상내역(대외활동) </h3>
@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp
 </div>
 <br>
 <div align="center">
