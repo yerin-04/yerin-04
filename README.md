@@ -66,7 +66,12 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yerin04)](https://solved.ac/yerin04)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=yerin04&theme=warm)
+<div align="center">
+  <a href="https://solved.ac/yerin04">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=yerin04" alt="Solved.ac Profile" />
+  </a>
+  &nbsp;
+  <img src="http://mazandi.herokuapp.com/api?handle=yerin04&theme=warm" alt="mazandi profile" />
+</div>
 <br><br>
 
